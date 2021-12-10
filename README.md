@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Koen. Currently I am a masterstudent Technical Medicine in the Netherlands.
+- 👀 I’m interested in medical developement and monitoring physiology.
+- 🌱 I’m currently improving my Python and Matlab skills.
+- 💞️ I’m looking to collaborate on interesting projects regarding data-analysis and machine-learning
+- 📫 Feel free to send me an email: koenvdv30@gmail.com
